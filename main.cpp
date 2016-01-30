@@ -9,7 +9,7 @@
 #include "CDonneesGraphe.h"
 #include "CGraphe.h"
 #include "CSommet.h"
-#include <windows.h>
+//#include <windows.h>
 #include <vector>
 #include <iostream>
 #include <time.h>
