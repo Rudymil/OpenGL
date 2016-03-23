@@ -1,3 +1,3 @@
 # OpenGL
-Projet OpenGL\n
-adresse mail de rendu : ismaela.giroux@gmail.com
+Projet OpenGL
+à rendre fin Mai 2016 : ismaela.giroux@gmail.com
